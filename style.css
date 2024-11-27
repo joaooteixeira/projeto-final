@@ -75,12 +75,12 @@ padding: 0 40px;
 /*ESTILO TOPO DO SITE */
 
 section.topo-do-site {
-    padding: 40px 4%;
+    padding: 10px 4%;
 }
 section.topo-do-site .flex{
     align-items: center;
     justify-content: center;
-    gap: 90px;
+    gap: 50px;
 }
 .topo-do-site .texto-topo-site h1 {
     color: #fff;
@@ -90,32 +90,4 @@ section.topo-do-site .flex{
  
 .topo-do-site .texto-topo-site p {
     color: #fff;
-    margin: 40px 0px;
-
-}
-/* ESTILO DAS ESPECIALIDADES */
-section.especialidades{
-    padding: 40px 4%;
-}
- section.especialidades .flex{
-    gap: 60px;
- }
-
-
- .especialidades .especialidades-br{
-    color: #fff;
-    padding: 40px;
-    border-radius: 20px;
-    border: 1px solid #fff;
-    margin-top: 25px;
-
- }
-.especialidades .especialidades-br i {
-   font-size: 70px;
-   color: #00ff08;
-
- }
- .especialidades .especialidades-br h3 {
-    padding: 28px; 
-    margin: 15px 0;
- }
+    margin: 40px 0px}
